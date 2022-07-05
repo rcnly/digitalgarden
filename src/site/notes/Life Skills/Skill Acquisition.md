@@ -3,7 +3,9 @@
 ---
 
 
-I haven't written on this subject for a while and I'm not sure if I will in the near future, but here are some quotes that resonate at the moment.
+# Skill Acquisition
+
+I haven't written on this subject for a while and I'm not sure if I will in the near future, but here are some quotes that resonate at the moment. I’ll probably pull in some from [[Reading/Do Hard Things|Do Hard Things]] in future as well.
 
 >When you understand how simple attention can be used to learn any technical aspect of the game, with or without the aid of a technical instruction as a guide, it is quite an easy matter to discover the important places to focus your attention, and then use the same simple process of discovering from experience. — [[Reading/The Inner Game of Tennis|The Inner Game of Tennis]] location: [959](kindle://book?action=open&asin=B00Q5PFGK8&location=959) ^ref-29694
 
