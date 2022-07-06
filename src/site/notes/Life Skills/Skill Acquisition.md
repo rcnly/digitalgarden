@@ -3,7 +3,7 @@
 ---
 
 
-# Skill Acquisition
+## Skill Acquisition
 
 I haven't written on this subject for a while and I'm not sure if I will in the near future, but here are some quotes that resonate at the moment. I’ll probably pull in some from [[Reading/Do Hard Things|Do Hard Things]] in future as well.
 
